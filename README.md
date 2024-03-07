@@ -1,5 +1,3 @@
-# Scraping-challenge
-
 # Mars Data Analysis
 
 ## Overview
